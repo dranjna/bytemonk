@@ -1,0 +1,32 @@
+/* .css-1f2xuhi-MuiDrawer-docked, */
+.css-1t0azaz-MuiPaper-root-MuiAppBar-root {
+    width: calc(100% - 70px) !important;
+    margin-left: 70px !important;
+}
+
+.css-1f2xuhi-MuiDrawer-docked .MuiDrawer-paper {
+    width: 70px !important;
+}
+
+.css-ttn1xo {
+    margin-left: -150px !important;
+}
+
+.css-1ex1afd-MuiTableCell-root,
+.css-1ygcj2i-MuiTableCell-root,
+.css-1azl6jz-MuiTableCell-root,
+.css-177gid-MuiTableCell-root {
+    text-align: center !important;
+}
+
+.css-jzk4qw-MuiPaper-root-MuiAppBar-root {
+    background-color: cadetblue !important;
+    width: calc(100% - 70px) !important;
+    margin-left: 70px !important;
+}
+
+.css-ciy9n4-MuiPaper-root-MuiAppBar-root {
+    background-color: black !important;
+    width: calc(100% - 0px) !important;
+    margin-left: 70px !important;
+}
